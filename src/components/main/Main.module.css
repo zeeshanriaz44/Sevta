@@ -9,14 +9,9 @@
 .upp {
   background-color: whitesmoke;
   padding: 50px;
+  width: 70%;
+}
 
-  width: 60%;
-}
-.bott {
-  background-color: green;
-  height: 200px;
-  width: 40%;
-}
 .para {
   font-size: 25px;
   font-weight: lighter;
@@ -58,4 +53,192 @@
   background-color: grey;
   border-radius: 8px;
   padding: 6px 5px;
+}
+/*
+farhan module
+*/
+
+.far {
+  display: flex;
+}
+.imgfan {
+  width: 40px;
+  height: 40px;
+}
+.imgfan img {
+  width: 100%;
+  border-radius: 50%;
+}
+.lo {
+  font-size: 24px;
+  margin: 0px 8px;
+}
+/*
+asses main
+*/
+.ass {
+  display: flex;
+}
+.as {
+  width: 40px;
+  height: 40px;
+}
+.as img {
+  width: 100%;
+  border-radius: 50%;
+}
+.asp {
+  font-size: 24px;
+  margin: 0px 8px;
+}
+.jar {
+  display: flex;
+}
+.jre {
+  width: 40px;
+  height: 40px;
+}
+.jre img {
+  width: 100%;
+  border-radius: 50%;
+}
+.gr {
+  font-size: 24px;
+  margin: 0px 8px;
+}
+.bott {
+  background-color: white;
+  height: 200px;
+  width: 30%;
+}
+.boxes {
+  padding: 50px;
+}
+.box3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.inp {
+  border: 2px solid black;
+  padding: 6px 20px;
+  border-radius: 15px;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+.h3s {
+  background-color: black;
+  padding: 8px 40px;
+  color: white;
+  border-radius: 10px;
+  margin-bottom: 25px;
+}
+.box5 {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.color {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+
+  background-color: green;
+}
+.bo5 {
+  margin: 10px;
+}
+.flex {
+  display: flex;
+  margin-bottom: 8px;
+}
+.flexes {
+  width: 33px;
+  height: 33px;
+}
+.flexes img {
+  width: 100%;
+  border-radius: 50%;
+}
+.mu {
+  margin: 0px 20px;
+  font-size: 16px;
+}
+.pad {
+  font-size: 18px;
+  font-weight: bolder;
+  margin-bottom: 18px;
+}
+.cent {
+  height: 200px;
+  width: 90%;
+  background-color: rgb(197, 197, 197);
+  margin-bottom: 30px;
+}
+.cent p {
+  text-align: center;
+  padding: 20px 0px;
+}
+.order {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.order li {
+  margin: 10px 0px;
+}
+.head3 {
+  margin: 30px 10px;
+}
+.span {
+  background-color: grey;
+  padding: 10px 6px;
+  border-radius: 8px;
+  margin: 30px 13px;
+}
+.Span {
+  margin-bottom: 40px;
+}
+.navigation {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.navigation > p {
+  border-radius: 4rem;
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+  background-color: rgb(152, 153, 155);
+}
+.head4 {
+  margin: 30px 10px;
+  text-transform: capitalize;
+}
+.founder {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin: 0px 0px 10px 0px;
+}
+.fou {
+  width: 50px;
+  height: 50px;
+}
+.fou img {
+  width: 100%;
+  border-radius: 50%;
+}
+.butt {
+  padding: 10px 14px;
+  border-radius: 10px;
+}
+.sav {
+  margin: 0px 10px;
+}
+.text {
+  text-align: center;
 }
